@@ -12,6 +12,7 @@ The generated results will inevitably be affected by Checkpoint and LoRA. This n
 
 
 Ultimate Prompt Visionary User Manual (v1.1)
+
 This is a high-level AI prompt generation node designed specifically for ComfyUI. It integrates multiple Large Language Models (LLMs) with optimized syntax logic for various base models, transforming simple inspirations into professional-grade Stable Diffusion prompts.
 
 Installation Path
