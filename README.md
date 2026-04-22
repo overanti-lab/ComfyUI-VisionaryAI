@@ -88,3 +88,11 @@ Safety Blocked by Gemini: This means the content triggered Google’s safety fil
 Missing openai library: Please run pip install openai in your terminal.
 
 Syntax Incompatibility: If you see strange score tags at the start of your prompt, check if the base_model is accidentally set to PONY.
+
+<img width="1920" height="960" alt="pic_1" src="https://github.com/user-attachments/assets/7f1f0311-5508-4dfd-b01b-c43a41794836" />
+
+<img width="1920" height="960" alt="pic_2" src="https://github.com/user-attachments/assets/fb0e1ba4-9844-442d-a23c-21bcc918740d" />
+
+<img width="1920" height="960" alt="pic_3" src="https://github.com/user-attachments/assets/26e49a04-1aae-4ae6-b3be-8d237384c4f2" />
+
+<img width="1920" height="960" alt="pic_4" src="https://github.com/user-attachments/assets/9ccfb25d-e933-4ee3-9029-1129e6c74567" />
